@@ -22,6 +22,7 @@ A **web-based smart grammar and writing assistant** that provides:
 - Suggestions are rendered instantly on the frontend  
 - Writing metrics are visualized using interactive charts  
 - Backend enforces rate limiting and stability  
+- Offline states activate an interactive game to retain engagement
 
 ---
 
