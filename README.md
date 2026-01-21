@@ -221,7 +221,7 @@ WordWise demonstrates:
 * Educational and personal use only
 * Proper attribution required
 * Not permitted for academic plagiarism
-* See repository license for details
+* See repository [LICENSE](LICENSE) for details
 
 ---
 
